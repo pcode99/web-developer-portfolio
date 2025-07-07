@@ -33,6 +33,14 @@
     font-size: 15px;
 }
 
+/*Header style */
+.header{
+    background-image: url(../images/developer.png), url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left,bottom right;
+}
+
+
 
 /* colur shard style */
 nav{
@@ -41,6 +49,12 @@ nav{
     align-items: center;
     justify-content: space-between;
     margin: 50px 200PX;
+}
+
+nav h3{
+    font-size: 45px;
+    font-weight:bold;
+
 }
 nav ul {
     display: flex;
