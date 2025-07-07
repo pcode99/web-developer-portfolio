@@ -1,0 +1,35 @@
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+/* colur shard style */
+
+
+
+nav{
+    display: flex;
+    font-family: open sans;
+}
+
+nav ul {
+    list-style: none;
+    text-decoration: none;
+}
+nav ul a {
+
+    text-decoration: none;
+}
+
+.nav-title{
+    font-weight: 800;
+    font: size 45px;
+}
+.colur-primary{
+    #FD6E0A;
+}
+
